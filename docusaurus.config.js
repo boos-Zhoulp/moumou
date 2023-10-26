@@ -8,7 +8,7 @@ const announcementBarContent = ''
 module.exports = async function createConfigAsync() {
   /** @type {import('@docusaurus/types').Config} */
   return {
-    title: '愧怍的小站',
+    title: '某某的小栈',
     url: 'https://kuizuo.cn',
     baseUrl: '/',
     favicon: 'img/favicon.ico',
