@@ -24,7 +24,7 @@ module.exports = async function createConfigAsync() {
       metadata: [
         {
           name: 'keywords',
-          content: '愧怍, kuizuo',
+          content: '某某, moumou',
         },
         {
           name: 'keywords',
